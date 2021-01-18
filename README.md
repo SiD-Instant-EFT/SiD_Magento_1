@@ -1,2 +1,2 @@
 # SiD_Magento_1
-This is the SiD plugin for Magento 1.
+Please navigate [here](https://github.com/SiD-Secure-EFT/SiD_Magento_1) for the actively maintained repository.
